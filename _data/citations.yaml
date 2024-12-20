@@ -1,3 +1,356 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- id: doi:10.1038/s41598-021-96031-1
+  title: A comparative study on image-based snake identification using machine learning
+  authors:
+  - Mahdi Rajabizadeh
+  - Mansoor Rezghi
+  publisher: Scientific Reports
+  date: '2021-09-27'
+  link: https://doi.org/gmzmws
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11634-020-00417-4
+  title: A novel dictionary learning method based on total least squares approach
+    with application in high dimensional biological data
+  authors:
+  - Parvaneh Parvasideh
+  - Mansoor Rezghi
+  publisher: Advances in Data Analysis and Classification
+  date: '2020-09-02'
+  link: https://doi.org/g8wkdd
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10489-021-02513-0
+  title: Applying inverse stereographic projection to manifold learning and clustering
+  authors:
+  - Kajal Eybpoosh
+  - Mansoor Rezghi
+  - Abbas Heydari
+  publisher: Applied Intelligence
+  date: '2021-07-22'
+  link: https://doi.org/g8wkdf
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10489-020-01859-1
+  title: "End-to-end CNN\u2009+\u2009LSTM deep learning approach for bearing fault\
+    \ diagnosis"
+  authors:
+  - Amin Khorram
+  - Mohammad Khalooei
+  - Mansoor Rezghi
+  publisher: Applied Intelligence
+  date: '2020-08-27'
+  link: https://doi.org/ghcz4z
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mma.7257
+  title: "Image denoising by a novel variable\u2010order total fractional variation\
+    \ model"
+  authors:
+  - Fariba Kazemi Golbaghi
+  - M. R. Eslahchi
+  - Mansoor Rezghi
+  publisher: Mathematical Methods in the Applied Sciences
+  date: '2021-02-24'
+  link: https://doi.org/gh5cb6
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cageo.2021.104942
+  title: Well-to-well correlation and identifying lithological boundaries by principal
+    component analysis of well-logs
+  authors:
+  - Amir Mohammad Karimi
+  - Saeid Sadeghnejad
+  - Mansoor Rezghi
+  publisher: Computers &amp; Geosciences
+  date: '2021-12-01'
+  link: https://doi.org/gm6c4r
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40995-020-00977-2
+  title: A Hybrid Image Denoising Method Based on Integer and Fractional-Order Total
+    Variation
+  authors:
+  - Fariba Kazemi Golbaghi
+  - Mansoor Rezghi
+  - M. R Eslahchi
+  publisher: 'Iranian Journal of Science and Technology, Transactions A: Science'
+  date: '2020-09-22'
+  link: https://doi.org/g538x3
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fninf.2020.581897
+  title: A Tensor-Based Framework for rs-fMRI Classification and Functional Connectivity
+    Construction
+  authors:
+  - Ali Noroozi
+  - Mansoor Rezghi
+  publisher: Frontiers in Neuroinformatics
+  date: '2020-11-30'
+  link: https://doi.org/gqk84x
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.engappai.2020.103741
+  title: Extra-adaptive robust online subspace tracker for anomaly detection from
+    streaming networks
+  authors:
+  - Maryam Amoozegar
+  - Behrouz Minaei-Bidgoli
+  - Mansoor Rezghi
+  - Hadi Fanaee-T
+  publisher: Engineering Applications of Artificial Intelligence
+  date: '2020-09-01'
+  link: https://doi.org/gh8f58
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patcog.2020.107545
+  title: Generalized low-rank approximation of matrices based on multiple transformation
+    pairs
+  authors:
+  - Soheil Ahmadi
+  - Mansoor Rezghi
+  publisher: Pattern Recognition
+  date: '2020-12-01'
+  link: https://doi.org/g8wkdg
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCKE50421.2020.9303665
+  title: Rainfall Data Analysis of Iran using Complex Networks View
+  authors:
+  - Ehsan Baratnezhad
+  - Mansoor Rezghi
+  publisher: 2020 10th International Conference on Computer and Knowledge Engineering
+    (ICCKE)
+  date: '2020-10-29'
+  link: https://doi.org/g8wkdh
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40314-019-0919-0
+  title: 'Even-order Toeplitz tensor: framework for multidimensional structured linear
+    systems'
+  authors:
+  - Mansoor Rezghi
+  - Maryam Amirmazlaghani
+  publisher: Computational and Applied Mathematics
+  date: '2019-07-29'
+  link: https://doi.org/g8wkdj
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.asoc.2016.12.019
+  title: Fuzzy clustering in community detection based on nonnegative matrix factorization
+    with two novel evaluation criteria
+  authors:
+  - Neda Binesh
+  - Mansoor Rezghi
+  publisher: Applied Soft Computing
+  date: '2018-08-01'
+  link: https://doi.org/gdzcrg
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIP.2017.2716840
+  title: A Novel Fast Tensor-Based Preconditioner for Image Restoration
+  authors:
+  - Mansoor Rezghi
+  publisher: IEEE Transactions on Image Processing
+  date: '2017-09-01'
+  link: https://doi.org/gbpbgd
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICSPIS.2016.7869897
+  title: A robust sparse feature selection for hyperspectral images
+  authors:
+  - S. Ensiye Kiyamousavi
+  - Mansoor Rezghi
+  publisher: 2016 2nd International Conference of Signal Processing and Intelligent
+    Systems (ICSPIS)
+  date: '2016-12-01'
+  link: https://doi.org/g8wkdk
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jvcir.2017.03.001
+  title: A splitting method for total least squares color image restoration problem
+  authors:
+  - Raheleh Feiz
+  - Mansoor Rezghi
+  publisher: Journal of Visual Communication and Image Representation
+  date: '2017-07-01'
+  link: https://doi.org/gbj87k
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jvcir.2016.10.003
+  title: Improving image segmentation by using energy function based on mixture of
+    Gaussian pre-processing
+  authors:
+  - Nima Vakili
+  - Mansoor Rezghi
+  - S. Mohammad Hosseini
+  publisher: Journal of Visual Communication and Image Representation
+  date: '2016-11-01'
+  link: https://doi.org/f9gwj8
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2014.10.015
+  title: A novel robust scaling image watermarking scheme based on Gaussian Mixture
+    Model
+  authors:
+  - Maryam Amirmazlaghani
+  - Mansoor Rezghi
+  - Hamidreza Amindavar
+  publisher: Expert Systems with Applications
+  date: '2015-03-01'
+  link: https://doi.org/f6vjnq
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AISP.2015.7123523
+  title: Integrated single image super resolution based on sparse representation
+  authors:
+  - Mehdi Khademloo
+  - Mansoor Rezghi
+  publisher: 2015 The International Symposium on Artificial Intelligence and Signal
+    Processing (AISP)
+  date: '2015-03-01'
+  link: https://doi.org/g8wkdm
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCKE.2014.6993356
+  title: A new algorithm for solving data sparsity problem based-on Non negative matrix
+    factorization in recommender systems
+  authors:
+  - Zeinab Sharifi
+  - Mansoor Rezghi
+  - Mahdi Nasiri
+  publisher: 2014 4th International Conference on Computer and Knowledge Engineering
+    (ICCKE)
+  date: '2014-10-01'
+  link: https://doi.org/g8wkdn
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IKT.2014.7030349
+  title: A new similarity measure for extraction information from social networks
+    and improve the community detection and recommendation results
+  authors:
+  - Neda Binesh
+  - Mansoor Rezghi
+  publisher: 2014 6th Conference on Information and Knowledge Technology (IKT)
+  date: '2014-05-01'
+  link: https://doi.org/g8wkdp
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1137/130917260
+  title: Best Kronecker Product Approximation of The Blurring Operator in Three Dimensional
+    Image Restoration Problems
+  authors:
+  - Mansoor Rezghi
+  - S. Mohammad Hosseini
+  - "Lars Eld\xE9n"
+  publisher: SIAM Journal on Matrix Analysis and Applications
+  date: '2014-01-01'
+  link: https://doi.org/f24kxn
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2014.06.024
+  title: 'Noise-free principal component analysis: An efficient dimension reduction
+    technique for high dimensional molecular data'
+  authors:
+  - Mansoor Rezghi
+  - Askar obulkasim
+  publisher: Expert Systems with Applications
+  date: '2014-12-01'
+  link: https://doi.org/g8wkdq
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICCKE.2013.6682799
+  title: New algorithm for recommender systems based on singular value decomposition
+    method
+  authors:
+  - Zeinab Sharifi
+  - Mansoor Rezghi
+  - Mahdi Nasiri
+  publisher: ICCKE 2013
+  date: '2013-10-01'
+  link: https://doi.org/g8wkdr
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2012/320698
+  title: A Novel Weighted Support Vector Machine Based on Particle Swarm Optimization
+    for Gene Selection and Tumor Classification
+  authors:
+  - Mohammad Javad Abdi
+  - Seyed Mohammad Hosseini
+  - Mansoor Rezghi
+  publisher: Computational and Mathematical Methods in Medicine
+  date: '2012-01-01'
+  link: https://doi.org/gb8nbc
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.laa.2010.03.032
+  title: Diagonalization of tensors with circulant structure
+  authors:
+  - Mansoor Rezghi
+  - "Lars Eld\xE9n"
+  publisher: Linear Algebra and its Applications
+  date: '2011-08-01'
+  link: https://doi.org/ds469j
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00607-010-0090-3
+  title: Lanczos based preconditioner for discrete ill-posed problems
+  authors:
+  - Mansoor Rezghi
+  - S. M. Hosseini
+  publisher: Computing
+  date: '2010-04-23'
+  link: https://doi.org/fpcv2m
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cam.2009.05.016
+  title: A new variant of L-curve for Tikhonov regularization
+  authors:
+  - Mansoor Rezghi
+  - S. Mohammad Hosseini
+  publisher: Journal of Computational and Applied Mathematics
+  date: '2009-09-01'
+  link: https://doi.org/cvc4q5
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cam.2005.04.002
+  title: "An ILU preconditioner for nonsymmetric positive definite matrices by using\
+    \ the conjugate Gram\u2013Schmidt process"
+  authors:
+  - Mansoor Rezghi
+  - S. Mohammad Hosseini
+  publisher: Journal of Computational and Applied Mathematics
+  date: '2006-04-01'
+  link: https://doi.org/fp8h6j
+  orcid: 0000-0003-4214-5008
+  plugin: orcid.py
+  file: orcid.yaml
