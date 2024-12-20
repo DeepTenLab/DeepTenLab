@@ -21,9 +21,11 @@ A brief description of our team ... TODO
 Our PI ... A brief description of the main people working in the lab ... TODO
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-<!-- {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
+<!-- 
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-<!-- {% include section.html background="images/background.jpg" dark=true %} -->
+{% include section.html background="images/background.jpg" dark=true %} 
+-->
 
 {% include section.html %}
 
