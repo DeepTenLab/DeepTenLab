@@ -8,7 +8,7 @@ A brief description of the Lab ... TODO
 {%
   include figure.html
   image="images/home/group-photo-team.jpg"
-  width="250%"
+  width="100%"
 %}
 
 {% include section.html %}
@@ -27,7 +27,7 @@ A brief description of our research ... TODO
   flip=true
   style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
@@ -50,7 +50,7 @@ A brief description of our projects ... TODO
   flip=true
   style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
@@ -75,7 +75,7 @@ A brief description of our team ... TODO
   flip=true
   style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
