@@ -22,9 +22,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-graduated:
+alumni:
   icon: fa-solid fa-graduation-cap
-  description: Graduated Student
+  description: Alumni Student
 
 programmer:
   icon: fa-solid fa-code
