@@ -1,19 +1,17 @@
 # site properties and page defaults
 title: DeepTenLab
-subtitle: 
-description: DeepTenLab is dedicated to advancing the field of computer vision through innovative research and development. Our lab specializes in utilizing tensor methods and other cutting-edge techniques to tackle state-of-the-art computer vision tasks. At DeepTenLab, we strive to push the boundaries of technology and explore new frontiers in artificial intelligence.
-header: images/background-temp.jpg
-footer: images/background-temp.jpg
+description: TMUDeepTenLab
+header: images/home/background.jpg
+footer: images/home/background.jpg
+
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@DeepTenLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: DeepTenLab
+  orcid: DeepTenLab
+  google-scholar: DeepTenLab
   github: DeepTenLab
-  twitter: DeepTenLab
-  youtube: DeepTenLab
 
 ### jekyll settings
 
