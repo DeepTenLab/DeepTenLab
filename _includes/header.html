@@ -5,10 +5,17 @@
 {% assign png = "images/logo.png" | file_exists %}
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
+
+{% assign base_image_path = "DeepTenLab" %} 
+{% if image contains base_image_path %} 
+  {% assign final_image_path = image %} 
+{% else %} 
+  {% assign final_image_path = base_image_path | append: "/" | append: image %} 
+{% endif %}
 <!--  '{{ image | relative_url | uri_escape }}' -->
 <header
   class="background"
-  style="--image: url('{{ site.baseurl }}/{{ image | uri_escape }}')"
+  style="--image: url('{{ final_image_path | relative_url | uri_escape }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
