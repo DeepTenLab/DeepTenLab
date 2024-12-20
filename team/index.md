@@ -7,24 +7,43 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A brief description of our team ... TODO
+
+{%
+  include figure.html
+  image="images/home/group-photo-team.jpg"
+  width="100%"
+%}
+
 
 {% include section.html %}
+
+Our PI ... A brief description of the main people working in the lab ... TODO
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+<!-- {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<!-- {% include section.html background="images/background.jpg" dark=true %} -->
 
 {% include section.html %}
 
-{% capture content %}
+Our PHD Students ... A brief description of the PHD students working in the lab ... TODO
+
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
+{% include section.html %}
+
+Our Graduate Students ... A brief description of the Graduate students working in the lab ... TODO
+
+{% include list.html data="members" component="portrait" filter="role == 'graduate'" %}
+
+{% include section.html %}
+
+Our Alumni Students ... A brief description of the Alumni students who had worked in the lab ... TODO
+
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+
+<!-- {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
@@ -32,4 +51,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="square" content=content %} -->
