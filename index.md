@@ -3,7 +3,13 @@
 
 # DeepTenLab
 
-DeepTenLab is dedicated to advancing the field of computer vision through innovative research and development. Our lab specializes in utilizing tensor methods and other cutting-edge techniques to tackle state-of-the-art computer vision tasks. At DeepTenLab, we strive to push the boundaries of technology and explore new frontiers in artificial intelligence.
+A brief description of the Lab ... TODO
+
+{%
+  include figure.html
+  image="images/home/group-photo-team.jpg"
+  width="250%"
+%}
 
 {% include section.html %}
 
@@ -11,7 +17,7 @@ DeepTenLab is dedicated to advancing the field of computer vision through innova
 
 {% capture text %}
 
-A breif description of our most recent publication.
+A brief description of our research ... TODO
 
 {%
   include button.html
@@ -26,7 +32,7 @@ A breif description of our most recent publication.
 
 {%
   include feature.html
-  image="images/publications-temp.jpg"
+  image="images/home/highlight-research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +40,7 @@ A breif description of our most recent publication.
 
 {% capture text %}
 
-A breif description of our most recent project.
+A brief description of our projects ... TODO
 
 {%
   include button.html
@@ -49,7 +55,7 @@ A breif description of our most recent project.
 
 {%
   include feature.html
-  image="images/projects-temp.jpg"
+  image="images/home/highlight-project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +65,7 @@ A breif description of our most recent project.
 
 {% capture text %}
 
-A breif description of our team
+A brief description of our team ... TODO
 
 {%
   include button.html
@@ -74,7 +80,7 @@ A breif description of our team
 
 {%
   include feature.html
-  image="images/teams-temp.jpg"
+  image="images/home/highlight-team.jpg"
   link="team"
   title="Our Team"
   text=text
