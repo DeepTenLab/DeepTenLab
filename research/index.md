@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-file-text-o" %}Research
+# {% include icon.html icon="fa-file-text-o" %}Research
 
 A brief description of the research we do ... TODO
 
