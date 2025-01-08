@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-A brief description of our team ... TODO
+At DeepTenLab, our team is composed of a diverse group of talented researchers and studentys who are passionate about advancing the field of AI. With expertise spanning mathematics, computer science, neuroscience, and engineering, our interdisciplinary team brings a wealth of knowledge and creativity to every project. We foster a collaborative and inclusive environment where ideas can flourish, and each member is encouraged to explore new avenues of research. Together, we are dedicated to pushing the frontiers of AI, developing novel algorithms, and applying them to solve real-world challenges. Our team's commitment to excellence is reflected in the high-impact publications we produce and the innovative projects we pursue across various domains.
 
 {%
   include figure.html
@@ -21,11 +21,16 @@ A brief description of our team ... TODO
 Our PI ... A brief description of the main people working in the lab ... TODO
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-<!-- 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %} 
--->
+<!--  {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
+
+<!-- {% include section.html background="images/background.jpg" dark=true %} -->
+
+{% include section.html %}
+
+Our postDoc Students ... A brief description of the postDoc students working in the lab ... TODO
+
+{% include list.html data="members" component="portrait" filter="role == 'posdtdoc'" %}
 
 {% include section.html %}
 
