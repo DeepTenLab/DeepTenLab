@@ -22,15 +22,11 @@ Our PI ... A brief description of the main people working in the lab ... TODO
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-<!--  {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
-
-<!-- {% include section.html background="images/background.jpg" dark=true %} -->
-
 {% include section.html %}
 
 Our postDoc Students ... A brief description of the postDoc students working in the lab ... TODO
 
-{% include list.html data="members" component="portrait" filter="role == 'posdtdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 {% include section.html %}
 
@@ -49,13 +45,3 @@ Our Graduate Students ... A brief description of the Graduate students working i
 Our Alumni Students ... A brief description of the Alumni students who had worked in the lab ... TODO
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
-
-<!-- {% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %} -->
