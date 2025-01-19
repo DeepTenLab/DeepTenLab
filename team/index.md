@@ -18,30 +18,13 @@ At DeepTenLab, our team is composed of a diverse group of talented researchers a
 
 {% include section.html %}
 
-Our PI ... A brief description of the main people working in the lab ... TODO
+
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html %}
 
-Our postDoc Students ... A brief description of the postDoc students working in the lab ... TODO
-
-{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
-
-{% include section.html %}
-
-Our PHD Students ... A brief description of the PHD students working in the lab ... TODO
-
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-
-{% include section.html %}
-
-Our Graduate Students ... A brief description of the Graduate students working in the lab ... TODO
-
-{% include list.html data="members" component="portrait" filter="role == 'graduate'" %}
-
-{% include section.html %}
-
-Our Alumni Students ... A brief description of the Alumni students who had worked in the lab ... TODO
+Alumni members
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
