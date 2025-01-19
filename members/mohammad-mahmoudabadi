@@ -595,6 +595,15 @@
     
       
         <a
+          href="/DeepTenLab/media/"
+          data-tooltip="Media, tutorials, online courses"
+        >
+          Media
+        </a>
+      
+    
+      
+        <a
           href="/DeepTenLab/contact/"
           data-tooltip="Email, address, and location"
         >
