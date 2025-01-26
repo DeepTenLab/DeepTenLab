@@ -9,6 +9,7 @@
   publisher: Expert Systems with Applications
   date: '2025-01-01'
   link: https://doi.org/g8xtgz
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417424021687-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5220/0012359900003654
