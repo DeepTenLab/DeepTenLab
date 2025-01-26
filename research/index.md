@@ -24,7 +24,7 @@ DeepTenLab specializes in investigating and developing novel AI models, leveragi
 
 - **Image-to-Image Translation**: Advancing models for tasks like style transfer and domain adaptation.
 
-- **Vision Transformers (ViT)**: Exploring transformer-based architectures for computer vision applications. .
+- **Vision Transformers (ViT)**: Exploring transformer-based architectures for computer vision applications. . .
 
 - **Graph Neural Networks (GNNs)**: Applying GNNs to analyze complex datasets structured as graphs, with a particular focus on cognitive data (e.g., fMRI and EEG). This research aims to uncover insights in neuroscience, cognitive science, and brain-computer interfaces.
 
