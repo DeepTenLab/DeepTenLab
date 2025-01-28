@@ -669,13 +669,62 @@
 
 <div>
   
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/mohamadmhm" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+        <span>GitHub</span>
+      
+    </a>
+  </div>
+
+<br />
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:m.mahmoudabadi@modares.ac.ir" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+        <span>Email</span>
+      
+    </a>
+  </div>
+
+<br />
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="/DeepTenLab/0009-0005-9485-5986" data-style="bare" aria-label="button">
+      
+      
+    </a>
+  </div>
+
+<br />
+  
 </div>
 
 
 </div>
 
 
-A short summary about Mohammad Mahmoudabadi ... TODO 
+My research interests lie in generative AI, including GANs, diffusion models, and Vision Transformers (ViTs), with the aim of advancing computer vision and image processing techniques. My past work centered on improving the CycleGAN model, and my current focus is on developing enhanced ViT models utilizing local and global attention to achieve more robust image understanding.
 
 
 
