@@ -3,7 +3,7 @@ name: Bahar Mahdavi
 aliases:
   - B. Mahdavi
   - Bahar Mahdavi
-image: images/Bahar.M.png
+image: images/profiles/Bahar.M.png
 role: graduate
 group: graduate
 links:
