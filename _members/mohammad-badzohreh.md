@@ -1,6 +1,6 @@
 ---
 name: Seyed Mohammad Badzohreh 
-image: images/photo.jpg
+image: images/profiles/mohammad-badzohreh.jpg
 role: graduate
 group: graduate
 links:
