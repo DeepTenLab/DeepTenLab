@@ -18,13 +18,8 @@ At DeepTenLab, our team is composed of a diverse group of talented researchers a
 
 {% include section.html %}
 
-
-
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html %}
 
-Alumni members
-
-{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
