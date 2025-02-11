@@ -7,27 +7,31 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Department of computer science, Tarbiat modares university-Tehran-Iran
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="rezghi@modares.ac.ir"
+  link="rezghi@modares.ac.ir"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="021 828 8448 0"
+  link="+982182884480"
+%}
+{%
+  include button.html
+  type="phone"
+  text="021 828 8508 2"
+  link="+982182885082"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/twwN65BxY76qkZU19"
 %}
 
 {% include section.html %}
@@ -36,8 +40,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/loc1.png"
+  caption="University"
 %}
 
 {% endcapture %}
@@ -46,8 +50,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/loc2.png"
+  caption="Our Department"
 %}
 
 {% endcapture %}
@@ -57,21 +61,21 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Col1
+Col1
+Col1
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Col2  
+Col2
+Col2
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Col3
+Col3
+Col3
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
