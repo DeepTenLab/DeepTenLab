@@ -20,4 +20,5 @@ As part of my research, we successfully developed a novel NMF solver based on bl
 To overcome these limitations, our paper proposes a double-sided NMF model that preserves the original structure of the data, unlike traditional NMF approaches. By maintaining the spatial relationships of features, our method reduces the number of parameters and computational complexity while enhancing efficiency. Furthermore, we introduce two deep variations—linear and nonlinear—designed to extract hierarchical features from data. We evaluate the clustering performance of our methods on two real-world image datasets and compare them with conventional vector-based NMF and deep NMF techniques. Numerical experiments confirm that our proposed algorithms offer superior performance and efficiency.
 
 [1]-M. Karimpour, M. rezghi,  A block column iteration for nonnegative matrix factorization, Journal of Computational Science, 64, 2022.
+
 [2]- M. karimpour, M. rezghi, A double-sided deep nonnegative matrix factorization network for feature extraction of two dimensional data, Expert systems with applications, 271, 2025.
