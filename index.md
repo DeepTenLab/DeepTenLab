@@ -3,7 +3,7 @@
 
 # DeepTenLab
 
-Welcome to DeepTenLab, the pioneering research laboratory of the Department of Computer Science at Tarbiat Modares University. Established in 2012, DeepTenLab has been at the forefront of cutting-edge research in advanced machine learning and deep learning, exploring the intersection of artificial intelligence (AI), mathematical modeling, and real-world applications.
+Welcome to DeepTenLab, the pioneering research laboratory of the Department of Computer Science at Tarbiat Modares University. Established in 2012, DeepTenLab has been at the forefront of cutting-edge research in advanced machine learning and deep learning, exploring the intersection of artificial intelligence (AI), mathematical modeling, and real-world applications. - 
 
 {%
   include figure.html
