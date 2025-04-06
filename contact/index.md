@@ -57,14 +57,3 @@ Department of computer science, Tarbiat modares university-Tehran-Iran
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-No.7 
-Jalal-e-Al-e-Ahmad Street
-Tehran
-Iran
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
