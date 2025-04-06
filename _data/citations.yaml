@@ -34,7 +34,7 @@
   publisher: International Journal of Machine Learning and Cybernetics
   date: '2022-11-24'
   link: https://doi.org/g8xtg3
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13042-022-01712-6/MediaObjects/13042_2022_1712_Fig1_HTML.png
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWsr8ox332HHgrtG7bL8K2vMIV6PcEvX0iA&s
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2022.118848
@@ -69,7 +69,7 @@
   publisher: Scientific Reports
   date: '2021-09-27'
   link: https://doi.org/gmzmws
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-96031-1/MediaObjects/41598_2021_96031_Fig8_HTML.png
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWInIgtBjsvY_N-F7klFigS9RuGPUzFPvbA&s
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11634-020-00417-4
@@ -81,7 +81,7 @@
   publisher: Advances in Data Analysis and Classification
   date: '2020-09-02'
   link: https://doi.org/g8wkdd
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11634-020-00417-4/MediaObjects/11634_2020_417_Fig2_HTML.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11634
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-021-02513-0
@@ -93,7 +93,7 @@
   publisher: Applied Intelligence
   date: '2021-07-22'
   link: https://doi.org/g8wkdf
-  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-021-02513-0/MediaObjects/10489_2021_2513_Fig4_HTML.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10489
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-020-01859-1
@@ -106,7 +106,7 @@
   publisher: Applied Intelligence
   date: '2020-08-27'
   link: https://doi.org/ghcz4z
-  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-020-01859-1/MediaObjects/10489_2020_1859_Fig5_HTML.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10489
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/mma.7257
@@ -145,7 +145,7 @@
   publisher: 'Iranian Journal of Science and Technology, Transactions A: Science'
   date: '2020-09-22'
   link: https://doi.org/g538x3
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40995-020-00977-2/MediaObjects/40995_2020_977_Fig1_HTML.jpg
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40995
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fninf.2020.581897
@@ -207,7 +207,7 @@
   publisher: Computational and Applied Mathematics
   date: '2019-07-29'
   link: https://doi.org/g8wkdj
-  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs40314-019-0919-0/MediaObjects/40314_2019_919_Fig1_HTML.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40314
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.asoc.2016.12.019
