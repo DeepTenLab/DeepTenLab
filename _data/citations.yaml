@@ -34,7 +34,7 @@
   publisher: International Journal of Machine Learning and Cybernetics
   date: '2022-11-24'
   link: https://doi.org/g8xtg3
-  image: https://www.researchgate.net/publication/365721062/figure/fig1/AS:11431281152162569@1682044702639/Non-linear-Manifolds.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13042-022-01712-6/MediaObjects/13042_2022_1712_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2022.118848
@@ -69,7 +69,7 @@
   publisher: Scientific Reports
   date: '2021-09-27'
   link: https://doi.org/gmzmws
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-96031-1/MediaObjects/41598_2021_96031_Fig8_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-96031-1/MediaObjects/41598_2021_96031_Fig8_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11634-020-00417-4
@@ -93,7 +93,7 @@
   publisher: Applied Intelligence
   date: '2021-07-22'
   link: https://doi.org/g8wkdf
-  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-021-02513-0/MediaObjects/10489_2021_2513_Fig7_HTML.png
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-021-02513-0/MediaObjects/10489_2021_2513_Fig4_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-020-01859-1
