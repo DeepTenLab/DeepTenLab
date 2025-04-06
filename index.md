@@ -37,7 +37,7 @@ DeepTenLab focuses on advancing AI through the development of innovative mathema
 
 {%
   include feature.html
-  image="images/home/highlight-research.jpg"
+  image="https://ars.els-cdn.com/content/image/1-s2.0-S0957417424021687-gr2.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -60,7 +60,7 @@ At DeepTenLab, our ongoing projects span a range of cutting-edge AI and machine 
 
 {%
   include feature.html
-  image="images/home/highlight-project.jpg"
+  image="https://i.sstatic.net/5QsMD.png"
   link="projects"
   title="Our Projects"
   flip=true
