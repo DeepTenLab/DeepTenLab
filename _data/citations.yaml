@@ -9,7 +9,7 @@
   publisher: Expert Systems with Applications
   date: '2025-01-01'
   link: https://doi.org/g8xtgz
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417424021687-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417424021687-gr2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.5220/0012359900003654
@@ -22,6 +22,7 @@
     Applications and Methods
   date: '2024-01-01'
   link: https://doi.org/g8xtg2
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNV6UeJ5PE6pfSmjrLGo1SAMnay_5LqZEOoQ&s
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s13042-022-01712-6
@@ -33,6 +34,7 @@
   publisher: International Journal of Machine Learning and Cybernetics
   date: '2022-11-24'
   link: https://doi.org/g8xtg3
+  image: https://www.researchgate.net/publication/365721062/figure/fig1/AS:11431281152162569@1682044702639/Non-linear-Manifolds.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.eswa.2022.118848
@@ -45,6 +47,7 @@
   publisher: Expert Systems with Applications
   date: '2023-03-01'
   link: https://doi.org/g8xtg5
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417422018668-gr2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jocs.2022.101863
@@ -55,6 +58,7 @@
   publisher: Journal of Computational Science
   date: '2022-10-01'
   link: https://doi.org/g8xtg6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1877750322X00070-cov150h.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-021-96031-1
@@ -65,6 +69,7 @@
   publisher: Scientific Reports
   date: '2021-09-27'
   link: https://doi.org/gmzmws
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-96031-1/MediaObjects/41598_2021_96031_Fig8_HTML.png?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11634-020-00417-4
@@ -76,6 +81,7 @@
   publisher: Advances in Data Analysis and Classification
   date: '2020-09-02'
   link: https://doi.org/g8wkdd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11634-020-00417-4/MediaObjects/11634_2020_417_Fig2_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-021-02513-0
@@ -87,6 +93,7 @@
   publisher: Applied Intelligence
   date: '2021-07-22'
   link: https://doi.org/g8wkdf
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-021-02513-0/MediaObjects/10489_2021_2513_Fig7_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10489-020-01859-1
@@ -99,6 +106,7 @@
   publisher: Applied Intelligence
   date: '2020-08-27'
   link: https://doi.org/ghcz4z
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs10489-020-01859-1/MediaObjects/10489_2020_1859_Fig5_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/mma.7257
@@ -111,6 +119,7 @@
   publisher: Mathematical Methods in the Applied Sciences
   date: '2021-02-24'
   link: https://doi.org/gh5cb6
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSI5qKT_qwmDdTUFU63PTlgbxdZ_m88WTTAAM_ySjb9Tyyb0N84pvqPxp1Mpnnbk7fwJ0&usqp=CAU
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cageo.2021.104942
@@ -123,6 +132,7 @@
   publisher: Computers &amp; Geosciences
   date: '2021-12-01'
   link: https://doi.org/gm6c4r
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0098300421002296-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40995-020-00977-2
@@ -135,6 +145,7 @@
   publisher: 'Iranian Journal of Science and Technology, Transactions A: Science'
   date: '2020-09-22'
   link: https://doi.org/g538x3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40995-020-00977-2/MediaObjects/40995_2020_977_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fninf.2020.581897
@@ -146,6 +157,7 @@
   publisher: Frontiers in Neuroinformatics
   date: '2020-11-30'
   link: https://doi.org/gqk84x
+  image: https://www.frontiersin.org/files/Articles/581897/fninf-14-581897-HTML/image_m/fninf-14-581897-g001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.engappai.2020.103741
@@ -159,6 +171,7 @@
   publisher: Engineering Applications of Artificial Intelligence
   date: '2020-09-01'
   link: https://doi.org/gh8f58
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0952197620301536-gr4.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.patcog.2020.107545
@@ -170,6 +183,7 @@
   publisher: Pattern Recognition
   date: '2020-12-01'
   link: https://doi.org/g8wkdg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320320303484-gr6.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICCKE50421.2020.9303665
@@ -181,6 +195,7 @@
     (ICCKE)
   date: '2020-10-29'
   link: https://doi.org/g8wkdh
+  image: https://iccke.um.ac.ir/Areas/Panel/Hamayesh/1/Image/Cover/b04d3919-302e-4eaa-b9f8-2ef5aacc925a.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40314-019-0919-0
@@ -192,6 +207,7 @@
   publisher: Computational and Applied Mathematics
   date: '2019-07-29'
   link: https://doi.org/g8wkdj
+  image: https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs40314-019-0919-0/MediaObjects/40314_2019_919_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.asoc.2016.12.019
@@ -203,6 +219,7 @@
   publisher: Applied Soft Computing
   date: '2018-08-01'
   link: https://doi.org/gdzcrg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1568494616306378-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TIP.2017.2716840
@@ -212,6 +229,7 @@
   publisher: IEEE Transactions on Image Processing
   date: '2017-09-01'
   link: https://doi.org/gbpbgd
+  image: https://signalprocessingsociety.org/sites/default/files/styles/190x265/public/08547188_0.jpg?itok=jVxtsv24
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICSPIS.2016.7869897
@@ -223,6 +241,7 @@
     Systems (ICSPIS)
   date: '2016-12-01'
   link: https://doi.org/g8wkdk
+  image: https://www.icspis.ir/years/2024/2024-11-03_07-33-44-engpooster1%20(3).jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jvcir.2017.03.001
@@ -233,5 +252,6 @@
   publisher: Journal of Visual Communication and Image Representation
   date: '2017-07-01'
   link: https://doi.org/gbj87k
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1047320317X00047-cov150h.gif
   plugin: sources.py
   file: sources.yaml
