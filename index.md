@@ -60,7 +60,7 @@ At DeepTenLab, our ongoing projects span a range of cutting-edge AI and machine 
 
 {%
   include feature.html
-  image="https://i.sstatic.net/5QsMD.png"
+  image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS47YStvAhpcyybQEOPX4TcsmaZvwuRQXwA0w&s"
   link="projects"
   title="Our Projects"
   flip=true
