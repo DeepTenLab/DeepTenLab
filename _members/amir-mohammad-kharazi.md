@@ -1,6 +1,6 @@
 ---
 name: Amir Mohammad Kharazi
-image: images/photo.jpg
+image: images/profiles/a.m.kharazi.png
 role: graduate
 group: graduate
 links:
