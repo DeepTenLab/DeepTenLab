@@ -8,4 +8,4 @@ nav:
 
 #  {% include icon.html icon="fa-solid fa-newspaper" %}News and updates
 
-{% include list.html data="news" component="news" style="rich" %}
+{% include list.html data="news" component="news" %}
