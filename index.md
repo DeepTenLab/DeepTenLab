@@ -1,6 +1,43 @@
 ---
 ---
 
+{% include section.html %}
+
+{% capture col1 %}
+## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
+
+  {% assign sorted_news = site.data.news | sort: "date" | reverse %}
+    {% for post in sorted_news limit:3 %}
+    
+  <div class="news-card">
+    <div class="news-header">
+        <span class="news-title">{{ post.title }}</span>
+        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.date | date: "%B %d, %Y" }} </span>
+    </div>
+    <div class="news-description">
+        {{ post.description }} 
+            {% if post.url %}
+            <a href="{{ post.url }}" target="_blank">More...</a>
+            {% endif %}
+    </div>
+  </div>
+
+    {% endfor %}  
+  
+{%
+  include button.html
+  link="news"
+  text="Read all news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  align=left
+
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 %}
+
 # DeepTenLab
 
 Welcome to DeepTenLab, the pioneering research laboratory of the Department of Computer Science at Tarbiat Modares University. Established in 2012, DeepTenLab has been at the forefront of cutting-edge research in advanced machine learning and deep learning, exploring the intersection of artificial intelligence (AI), mathematical modeling, and real-world applications. - 
