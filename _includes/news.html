@@ -1,3 +1,4 @@
+
 <div class="news-card">
     <div class="news-header">
         <span class="news-title">{{ include.title }}</span>
@@ -9,17 +10,5 @@
             <a href="{{ include.url }}" target="_blank">More...</a>
             {% endif %}
     </div>
-    {% if include.image %}
-    <div class="news-image">
-        <img
-            src="{{ include.image | relative_url | uri_escape }}"
-            alt="{{ include.title | default: 'news image' | regex_strip }}"
-            loading="lazy"
-            {% include fallback.html %}
-        >
-    </div>
-    {% endif %}
-
 </div>
-
 
