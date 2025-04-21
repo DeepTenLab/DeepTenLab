@@ -37,23 +37,6 @@
     text-align: left;
 }
 
-.news-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-
-    img {
-        width: 100%;
-        max-width: 400px;
-        height: auto;
-        border-radius: 8px;
-        object-fit: cover;
-    }
-}
-
-
-
 /* Responsive Design for Mobile */
 @media (max-width: 600px) {
     .news-header {
@@ -65,4 +48,3 @@
         margin-top: 5px;
     }
 }
-
