@@ -1,59 +1,48 @@
-- title: New Talk
-  date: 2025-04-21
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
 
-- title: New Talk
-  date: 2025-04-20
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper ultricies nisi. Nam eget dui.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+# Add the latest news updates here, such as:
+# - New team members joining
+# - Preprints or publications
+# - Grants and funding announcements
+# - Awards, invited talks and achievements
+# - Major lab accomplishments
+#
+# If there is an external link (e.g., to a journal or news article), add it in the `link` field.
+# Otherwise, leave `link` blank.
+# Please add the new entries on the top although these are sorted by date. 
 
-- title: New Talk
-  date: 2025-04-19
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
 
-- title: New Talk
-  date: 2025-04-18
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: Genomics Data Carpentry Workshop @ MBZUAI
+  date: 2025-04-01
+  description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today! 
+  url: https://khanlab.bio/2025-04-28-mbzuai-genomics/
+ 
+- title: New publication
+  date: 2025-03-21
+  description: Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer.
+  url: https://doi.org/10.1186/s13058-025-01966-2
 
-- title: New Talk
-  date: 2025-04-17
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quam felis, ultricies nec, pellentesque eu, pretium quis.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
 
-- title: New Talk
-  date: 2025-04-16
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: HSE & MBZUAI meet-up on AI in Biology
+  date: 2025-03-13
+  description: Lab presented on the <i>AI-driven integration of diverse multi-omics data for advancing precision medicine</i> at the HSE University and MBZUAI collaborative event on <i>AI in Biology</i>.
+  url: https://cs.hse.ru/onlinemeetup
 
-- title: New Talk
-  date: 2025-04-15
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere. Praesent turpis. Aenean posuere.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: Talk at NYU Abu Dhabi Campus
+  date: 2025-02-25
+  description: Aziz was invited to speak at the Center for Genomics and Systems Biology, New York University Abu Dhabi (NYUAD) Biology Seminar Series.
+  url: 
 
-- title: New Talk
-  date: 2025-04-14
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In enim justo, rhoncus ut, imperdiet a, venenatis vitae.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: Talk at NUST Islamabad
+  date: 2025-02-17
+  description: Aziz was invited to speak at the School of Interdisciplinary Engineering & Science (SINES), NUST iTalks Seminar Series.
+  url: 
 
-- title: New Talk
-  date: 2025-04-13
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra nulla ut metus varius laoreet.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: Talk at LUMS Lahore
+  date: 2025-02-14
+  description: Aziz was invited to speak at the Syed Babar Ali School of Science and Engineering (SBASSE), LUMS Life Sciences Seminar Series.
+  url: 
 
-- title: New Talk
-  date: 2025-04-12
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
-  url: https://en.modares.ac.ir/
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXWzC7IMjhrQUwTsLcDzKI3DZQpwyRBYnjw&s
+- title: New Lab, new Continent, and new beginnings
+  date: 2025-02-01
+  description: Excited to start the Computational Biology and Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department. <a href="/join">Join us</a>!
+  url: 
