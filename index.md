@@ -4,7 +4,7 @@
 {% include section.html %}
 
 {% capture col1 %}
-## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
+## {% include icon.html icon="fa-solid fa-newspaper" %}Lab Latest News
 
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
