@@ -10,5 +10,10 @@
             <a href="{{ include.url }}" target="_blank">More...</a>
             {% endif %}
     </div>
+    {% if include.image %}
+    <div class="news-image">
+        <img src="{{ include.image }}" alt="{{ include.title }}" />
+    </div>
+    {% endif %}
 </div>
 
