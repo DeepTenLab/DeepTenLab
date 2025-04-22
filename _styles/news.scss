@@ -37,6 +37,18 @@
     text-align: left;
 }
 
+.news-image {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.news-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+
 /* Responsive Design for Mobile */
 @media (max-width: 600px) {
     .news-header {
