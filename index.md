@@ -20,6 +20,12 @@
             <a href="{{ post.url }}" target="_blank">More...</a>
             {% endif %}
     </div>
+    {% if post.image %}
+    <div class="news-image">
+        <img src="{{ post.image }}" alt="{{ post.title }}">
+    </div>
+    {% endif %}
+    
   </div>
 
     {% endfor %}  
