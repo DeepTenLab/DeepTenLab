@@ -1,35 +1,35 @@
-- title: Genomics Data Carpentry Workshop @ MBZUAI
-  date: 2025-04-01
+- title: Example News 1
+  date: 2025-04-22
   description: We're organizing and hosting the first-ever Data Carpentry Genomics Workshop in the UAE at MBZUAI on April 28-29, 2025. Spots are limited — secure your place today! 
   url: https://khanlab.bio/2025-04-28-mbzuai-genomics/
  
-- title: New publication
+- title: Example News 2
   date: 2025-03-21
   description: Evolutionary measures show that recurrence of DCIS is distinct from progression to breast cancer.
   url: https://doi.org/10.1186/s13058-025-01966-2
 
 
-- title: HSE & MBZUAI meet-up on AI in Biology
-  date: 2025-03-13
+- title: Example News 3
+  date: 2025-03-20
   description: Lab presented on the <i>AI-driven integration of diverse multi-omics data for advancing precision medicine</i> at the HSE University and MBZUAI collaborative event on <i>AI in Biology</i>.
   url: https://cs.hse.ru/onlinemeetup
 
-- title: Talk at NYU Abu Dhabi Campus
-  date: 2025-02-25
+- title: Example News 4
+  date: 2025-02-19
   description: Aziz was invited to speak at the Center for Genomics and Systems Biology, New York University Abu Dhabi (NYUAD) Biology Seminar Series.
   url: 
 
-- title: Talk at NUST Islamabad
-  date: 2025-02-17
+- title: Example News 5
+  date: 2025-02-18
   description: Aziz was invited to speak at the School of Interdisciplinary Engineering & Science (SINES), NUST iTalks Seminar Series.
   url: 
 
-- title: Talk at LUMS Lahore
-  date: 2025-02-14
+- title: Example News 6
+  date: 2025-02-17
   description: Aziz was invited to speak at the Syed Babar Ali School of Science and Engineering (SBASSE), LUMS Life Sciences Seminar Series.
   url: 
 
-- title: New Lab, new Continent, and new beginnings
-  date: 2025-02-01
+- title: Example News 7
+  date: 2025-02-16
   description: Excited to start the Computational Biology and Cancer Regulatory Genomics lab at the MBZUAI, Computational Biology department. <a href="/join">Join us</a>!
   url: 
