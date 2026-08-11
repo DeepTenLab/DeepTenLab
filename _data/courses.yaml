@@ -1,0 +1,10 @@
+- title: "LLM Book Club"
+  slug: llm-book-club
+  active: true
+  subtitle: "LLM Reading Course"
+  poster: "https://placehold.co/800x450/1a1a2e/e0e0e0?text=LLM+Book+Club"
+  description: >
+    A hands-on reading and discussion group focused on Large Language Models (LLMs).
+    Participants will explore foundational papers, architectures, fine-tuning techniques,
+    and real-world applications of LLMs through weekly sessions.
+  registration_url: "#"
