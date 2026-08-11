@@ -13,13 +13,15 @@ nav:
 
 {% for course in active_courses %}
 
+{% capture course_link %}courses/{{ course.slug }}{% endcapture %}
+
 {%
   include card.html
   title=course.title
   subtitle=course.subtitle
   description=course.description
   image=course.poster
-  link="courses/" | append: course.slug
+  link=course_link
   style="large"
 %}
 
