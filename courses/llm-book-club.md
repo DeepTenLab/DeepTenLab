@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /courses/llm-book-club/
 ---
 
 {% assign course = site.data.courses | where: "slug", "llm-book-club" | first %}

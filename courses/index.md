@@ -19,7 +19,7 @@ nav:
   subtitle=course.subtitle
   description=course.description
   image=course.poster
-  link=course.slug
+  link="courses/" | append: course.slug
   style="large"
 %}
 
