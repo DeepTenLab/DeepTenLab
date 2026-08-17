@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Barlow", "B Nazanin", sans-serif;
+  --heading: "Barlow", "B Nazanin", sans-serif;
+  --body: "Barlow", "B Nazanin", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
