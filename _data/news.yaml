@@ -1,8 +1,8 @@
-- title: "New Course: LLM Book Club"
-  date: 2026-08-11
-  description: "We are excited to announce our new course — LLM Book Club (کتابخانی LLM). A hands-on reading and discussion group focused on Large Language Models, covering foundational papers, architectures, fine-tuning techniques, and real-world applications."
+- title: "دوره کتابخوانی تخصصی Hands-On Large Language Models"
+  date: 2026-08-17
+  description: "آزمایشگاه هوش مصنوعی دیپتن‌لب (DeepTenLab) به همراه انجمن علمی گروه علوم کامپیوتر برگزار می‌کند: دوره کتابخوانی جمعی در موضوع مدل‌های زبانی بزرگ — کتاب Hands-On Large Language Models. این دوره رایگان، حضوری و مجازی، از ۹ شهریور، دوشنبه‌ها ساعت ۱۷ در دانشگاه تربیت مدرس."
   url: https://deeptenlab.github.io/DeepTenLab/courses/llm-book-club/
-  image: https://placehold.co/800x450/1a1a2e/e0e0e0?text=LLM+Book+Club
+  image: images/courses/llm-book-club-poster.png
 
 - title: Lecture Series In Artificial Intelligence
   date: 2025-04-29
