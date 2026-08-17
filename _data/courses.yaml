@@ -2,8 +2,8 @@
   slug: llm-book-club
   active: true
   title_fa: "دوره کتابخوانی تخصصی Hands-On Large Language Models"
-  poster: "images/courses/llm-book-club-poster.png"
-  registration_url: "#"
+  poster: "images/poster_llm.png"
+  registration_url: "https://survey.porsline.ir/s/0lwuZXfq"
 
   target_audience: "دانشجویان تمامی مقاطع و افراد علاقه‌مند"
   target_audience_en: "Open to all students and enthusiasts"
