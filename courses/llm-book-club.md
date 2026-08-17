@@ -16,9 +16,11 @@ permalink: /courses/llm-book-club/
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %} {{ c.title_fa }}
 
-<p style="text-align: center;" dir="rtl">{{ c.target_audience }} · {{ c.format }}</p>
+<div dir="rtl" style="text-align: center;">
+{{ c.target_audience }} · {{ c.format }}
+</div>
 
-<p style="text-align: center;">
+<div style="text-align: center;">
 
 {%
   include button.html
@@ -29,13 +31,15 @@ permalink: /courses/llm-book-club/
   style="filled"
 %}
 
-</p>
+</div>
 
 {% include section.html %}
 
 ## 📖 چشم‌انداز دوره
 
-<p dir="rtl" style="text-align: justify;">{{ c.vision }}</p>
+<div dir="rtl" style="text-align: justify;">
+{{ c.vision }}
+</div>
 
 ---
 
@@ -49,27 +53,31 @@ permalink: /courses/llm-book-club/
 
 **{{ c.book_authors }}**
 
+<div dir="rtl">
+
 ### سرفصل‌های اصلی
 
-<p dir="rtl" style="text-align: right;">
+<ul style="list-style-type: disc; padding-right: 1.5rem;">
+<li>مبانی معماری Transformer و مکانیزم توجه</li>
+<li>روش‌های پیش‌آموزش (Pre-training) روی داده‌های عظیم</li>
+<li>تنظیم دقیق (Fine-tuning) و مهندسی پرامپت</li>
+<li>معیارهای ارزیابی مدل‌ها</li>
+<li>استقرار مدل و چالش‌های اخلاقی</li>
+</ul>
 
-- {{ c.chapters[0] }}
-- {{ c.chapters[1] }}
-- {{ c.chapters[2] }}
-- {{ c.chapters[3] }}
-- {{ c.chapters[4] }}
-
-</p>
+</div>
 
 ### Key Topics
 
-- {{ c.chapters_en[0] }}
-- {{ c.chapters_en[1] }}
-- {{ c.chapters_en[2] }}
-- {{ c.chapters_en[3] }}
-- {{ c.chapters_en[4] }}
+- Transformer architecture fundamentals and attention mechanisms
+- Pre-training methods on large-scale datasets
+- Fine-tuning and prompt engineering
+- Model evaluation metrics
+- Model deployment and ethical challenges
 
-<p dir="rtl" style="text-align: center; margin-top: 1rem;">این مباحث در ۵ هفته، با تلفیق تئوری، بحث گروهی و کدنویسی زنده پوشش داده خواهد شد.</p>
+<div dir="rtl" style="text-align: center; margin-top: 1rem;">
+این مباحث در ۵ هفته، با تلفیق تئوری، بحث گروهی و کدنویسی زنده پوشش داده خواهد شد.
+</div>
 
 These topics will be covered over 5 weeks, combining theory, group discussion, and live coding.
 
@@ -87,15 +95,17 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
+<div dir="rtl">
+
 ## 📅 زمان و مکان
 
-<p dir="rtl">
+<ul style="list-style-type: none; padding-right: 0;">
+<li>📅 <strong>تاریخ شروع:</strong> {{ c.start_date }}</li>
+<li>🕐 <strong>زمان:</strong> {{ c.schedule }}</li>
+<li>📍 <strong>مکان:</strong> {{ c.location }}</li>
+</ul>
 
-- 📅 **تاریخ شروع:** {{ c.start_date }}
-- 🕐 **زمان:** {{ c.schedule }}
-- 📍 **مکان:** {{ c.location }}
-
-</p>
+</div>
 
 ## 📅 Schedule & Location
 
@@ -105,27 +115,33 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
+<div dir="rtl">
+
 ## 🎁 مزایای شرکت در دوره
 
-<p dir="rtl" style="text-align: right;">
+<ul style="list-style-type: disc; padding-right: 1.5rem;">
+<li>مدرک و گواهی آزمایشگاه برای شرکت‌کنندگان فعال (حداقل ۸۰٪ حضور و مشارکت مؤثر)</li>
+<li>شبکه‌سازی با اساتید و دانشجویان مستعد در فضایی صمیمی</li>
+<li>هیچ شهریه‌ای دریافت نمی‌شود؛ یادگیری برای همه آزاد است</li>
+</ul>
 
-- {{ c.benefits[0] }}
-- {{ c.benefits[1] }}
-- {{ c.benefits[2] }}
-
-</p>
+</div>
 
 ## 🎁 Benefits
 
-- {{ c.benefits_en[0] }}
-- {{ c.benefits_en[1] }}
-- {{ c.benefits_en[2] }}
+- Lab certificate for active participants (minimum 80% attendance and effective contribution)
+- Networking with faculty and talented students in a friendly environment
+- No fees required; learning is free for everyone
 
 {% include section.html %}
 
+<div dir="rtl">
+
 ## 🎯 هدف راهبردی
 
-<p dir="rtl" style="text-align: justify;">{{ c.strategic_goal }}</p>
+{{ c.strategic_goal }}
+
+</div>
 
 ## 🎯 Strategic Goal
 
@@ -133,14 +149,16 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
+<div dir="rtl">
+
 ## ⚠️ نکات مهم ثبت‌نام
 
-<p dir="rtl" style="text-align: right;">
+<blockquote>
+<p>{{ c.notes[0] }}</p>
+<p>{{ c.notes[1] }}</p>
+</blockquote>
 
-> {{ c.notes[0] }}
-> {{ c.notes[1] }}
-
-</p>
+</div>
 
 ## ⚠️ Important Registration Notes
 
@@ -149,7 +167,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
-<p style="text-align: center; padding: 2rem 0;">
+<div style="text-align: center; padding: 2rem 0;">
 
 {%
   include button.html
@@ -160,4 +178,4 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
   style="filled"
 %}
 
-</p>
+</div>
