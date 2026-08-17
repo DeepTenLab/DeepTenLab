@@ -35,10 +35,12 @@ permalink: /courses/llm-book-club/
 
 {% include section.html %}
 
-## 📖 چشم‌انداز دوره
+<div dir="rtl">
 
-<div dir="rtl" style="text-align: justify;">
+<h2>📖 چشم‌انداز دوره</h2>
+
 {{ c.vision }}
+
 </div>
 
 ---
@@ -55,7 +57,7 @@ permalink: /courses/llm-book-club/
 
 <div dir="rtl">
 
-### سرفصل‌های اصلی
+<h3>سرفصل‌های اصلی</h3>
 
 <ul style="list-style-type: disc; padding-right: 1.5rem;">
 <li>مبانی معماری Transformer و مکانیزم توجه</li>
@@ -97,7 +99,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 <div dir="rtl">
 
-## 📅 زمان و مکان
+<h2>📅 زمان و مکان</h2>
 
 <ul style="list-style-type: none; padding-right: 0;">
 <li>📅 <strong>تاریخ شروع:</strong> {{ c.start_date }}</li>
@@ -117,7 +119,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 <div dir="rtl">
 
-## 🎁 مزایای شرکت در دوره
+<h2>🎁 مزایای شرکت در دوره</h2>
 
 <ul style="list-style-type: disc; padding-right: 1.5rem;">
 <li>مدرک و گواهی آزمایشگاه برای شرکت‌کنندگان فعال (حداقل ۸۰٪ حضور و مشارکت مؤثر)</li>
@@ -137,7 +139,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 <div dir="rtl">
 
-## 🎯 هدف راهبردی
+<h2>🎯 هدف راهبردی</h2>
 
 {{ c.strategic_goal }}
 
@@ -151,7 +153,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 <div dir="rtl">
 
-## ⚠️ نکات مهم ثبت‌نام
+<h2>⚠️ نکات مهم ثبت‌نام</h2>
 
 <blockquote>
 <p>{{ c.notes[0] }}</p>
