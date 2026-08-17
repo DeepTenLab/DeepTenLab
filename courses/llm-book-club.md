@@ -14,15 +14,11 @@ permalink: /courses/llm-book-club/
 
 {% include section.html %}
 
-<div dir="rtl" style="text-align: center;">
-
 # {% include icon.html icon="fa-solid fa-graduation-cap" %} {{ c.title_fa }}
 
-**{{ c.target_audience }} · {{ c.format }}**
+<p style="text-align: center;" dir="rtl">{{ c.target_audience }} · {{ c.format }}</p>
 
-</div>
-
-<div dir="rtl" style="text-align: center;">
+<p style="text-align: center;">
 
 {%
   include button.html
@@ -33,17 +29,13 @@ permalink: /courses/llm-book-club/
   style="filled"
 %}
 
-</div>
+</p>
 
 {% include section.html %}
 
-<div dir="rtl">
-
 ## 📖 چشم‌انداز دوره
 
-{{ c.vision }}
-
-</div>
+<p dir="rtl" style="text-align: justify;">{{ c.vision }}</p>
 
 ---
 
@@ -57,27 +49,27 @@ permalink: /courses/llm-book-club/
 
 **{{ c.book_authors }}**
 
-<div dir="rtl">
-
 ### سرفصل‌های اصلی
 
-{% for ch in c.chapters %}
-- {{ ch }}
-{% endfor %}
+<p dir="rtl" style="text-align: right;">
 
-</div>
+- {{ c.chapters[0] }}
+- {{ c.chapters[1] }}
+- {{ c.chapters[2] }}
+- {{ c.chapters[3] }}
+- {{ c.chapters[4] }}
+
+</p>
 
 ### Key Topics
 
-{% for ch in c.chapters_en %}
-- {{ ch }}
-{% endfor %}
+- {{ c.chapters_en[0] }}
+- {{ c.chapters_en[1] }}
+- {{ c.chapters_en[2] }}
+- {{ c.chapters_en[3] }}
+- {{ c.chapters_en[4] }}
 
-<div dir="rtl" style="margin-top: 1rem;">
-
-این مباحث در ۵ هفته، با تلفیق تئوری، بحث گروهی و کدنویسی زنده پوشش داده خواهد شد.
-
-</div>
+<p dir="rtl" style="text-align: center; margin-top: 1rem;">این مباحث در ۵ هفته، با تلفیق تئوری، بحث گروهی و کدنویسی زنده پوشش داده خواهد شد.</p>
 
 These topics will be covered over 5 weeks, combining theory, group discussion, and live coding.
 
@@ -95,53 +87,45 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
-<div dir="rtl">
-
 ## 📅 زمان و مکان
 
-| | جزئیات |
-|---|---|
-| 📅 **تاریخ شروع** | {{ c.start_date }} |
-| 🕐 **زمان** | {{ c.schedule }} |
-| 📍 **مکان** | {{ c.location }} |
+<p dir="rtl">
 
-</div>
+- 📅 **تاریخ شروع:** {{ c.start_date }}
+- 🕐 **زمان:** {{ c.schedule }}
+- 📍 **مکان:** {{ c.location }}
+
+</p>
 
 ## 📅 Schedule & Location
 
-| | Details |
-|---|---|
-| 📅 **Start Date** | {{ c.start_date }} |
-| 🕐 **Time** | {{ c.schedule_en }} |
-| 📍 **Location** | Tarbiat Modares University, CS Dept, 4th Floor, Room 3401 |
+- 📅 **Start Date:** {{ c.start_date }}
+- 🕐 **Time:** {{ c.schedule_en }}
+- 📍 **Location:** Tarbiat Modares University, CS Dept, 4th Floor, Room 3401
 
 {% include section.html %}
-
-<div dir="rtl">
 
 ## 🎁 مزایای شرکت در دوره
 
-{% for b in c.benefits %}
-- {{ b }}
-{% endfor %}
+<p dir="rtl" style="text-align: right;">
 
-</div>
+- {{ c.benefits[0] }}
+- {{ c.benefits[1] }}
+- {{ c.benefits[2] }}
+
+</p>
 
 ## 🎁 Benefits
 
-{% for b in c.benefits_en %}
-- {{ b }}
-{% endfor %}
+- {{ c.benefits_en[0] }}
+- {{ c.benefits_en[1] }}
+- {{ c.benefits_en[2] }}
 
 {% include section.html %}
 
-<div dir="rtl">
-
 ## 🎯 هدف راهبردی
 
-{{ c.strategic_goal }}
-
-</div>
+<p dir="rtl" style="text-align: justify;">{{ c.strategic_goal }}</p>
 
 ## 🎯 Strategic Goal
 
@@ -149,25 +133,23 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
-<div dir="rtl">
-
 ## ⚠️ نکات مهم ثبت‌نام
 
-{% for note in c.notes %}
-> {{ note }}
-{% endfor %}
+<p dir="rtl" style="text-align: right;">
 
-</div>
+> {{ c.notes[0] }}
+> {{ c.notes[1] }}
+
+</p>
 
 ## ⚠️ Important Registration Notes
 
-{% for note in c.notes_en %}
-> {{ note }}
-{% endfor %}
+> {{ c.notes_en[0] }}
+> {{ c.notes_en[1] }}
 
 {% include section.html %}
 
-<div dir="rtl" style="text-align: center; padding: 2rem 0;">
+<p style="text-align: center; padding: 2rem 0;">
 
 {%
   include button.html
@@ -178,4 +160,4 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
   style="filled"
 %}
 
-</div>
+</p>

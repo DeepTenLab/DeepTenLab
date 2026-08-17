@@ -12,7 +12,7 @@
     </div>
     {% if include.image %}
     <div class="news-image">
-        <img src="{{ include.image }}" alt="{{ include.title }}" />
+        <img src="{{ include.image | relative_url }}" alt="{{ include.title }}" />
     </div>
     {% endif %}
 </div>
