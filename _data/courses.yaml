@@ -1,10 +1,64 @@
-- title: "LLM Book Club"
+- title: "Hands-On Large Language Models"
   slug: llm-book-club
   active: true
-  subtitle: "LLM Reading Course"
-  poster: "https://placehold.co/800x450/1a1a2e/e0e0e0?text=LLM+Book+Club"
-  description: >
-    A hands-on reading and discussion group focused on Large Language Models (LLMs).
-    Participants will explore foundational papers, architectures, fine-tuning techniques,
-    and real-world applications of LLMs through weekly sessions.
+  title_fa: "دوره کتابخوانی تخصصی Hands-On Large Language Models"
+  poster: "images/courses/llm-book-club-poster.png"
   registration_url: "#"
+
+  target_audience: "دانشجویان تمامی مقاطع و افراد علاقه‌مند"
+  target_audience_en: "Open to all students and enthusiasts"
+
+  format: "حضوری و مجازی"
+  format_en: "In-person and Virtual"
+
+  start_date: "۹ شهریور"
+  schedule: "دوشنبه‌های هر هفته به مدت یک ماه، ساعت ۱۷"
+  schedule_en: "Mondays, 5:00 PM, for 4 weeks starting 9 Shahrivar"
+
+  location: "دانشگاه تربیت مدرس، گروه علوم کامپیوتر، ساختمان علوم پایه، طبقه ۴ اتاق ۳۴۰۱"
+
+  vision: >
+    این دوره، یک پویش علمی رایگان، عمیق و تعاملی است که با هدف شکستن کلیشه‌های آموزشی صرفاً سخنرانی‌محور طراحی شده است. در این مسیر، به جای حفظ‌کردن، بر پرسش‌گری، بحث گروهی و کدنویسی عملی تأکید داریم تا هر شرکت‌کننده به درک واقعی از مدل‌های زبانی بزرگ (LLM) دست یابد.
+  vision_en: >
+    This course is a free, deep, and interactive scientific initiative designed to break the stereotypes of traditional lecture-based education. Instead of rote memorization, we emphasize questioning, group discussion, and hands-on coding so that every participant gains a real understanding of Large Language Models (LLMs).
+
+  book_title: "Hands-On Large Language Models"
+  book_authors: "Jay Alammar & Maarten Grootendorst"
+  chapters:
+    - "مبانی معماری Transformer و مکانیزم توجه"
+    - "روش‌های پیش‌آموزش (Pre-training) روی داده‌های عظیم"
+    - "تنظیم دقیق (Fine-tuning) و مهندسی پرامپت"
+    - "معیارهای ارزیابی مدل‌ها"
+    - "استقرار مدل و چالش‌های اخلاقی"
+  chapters_en:
+    - "Transformer architecture fundamentals and attention mechanisms"
+    - "Pre-training methods on large-scale datasets"
+    - "Fine-tuning and prompt engineering"
+    - "Model evaluation metrics"
+    - "Model deployment and ethical challenges"
+
+  session_format: >
+    هر جلسه شامل خلاصه‌سازی هوشمند با NotebookLM، بحث‌های چالشی، کدنویسی زنده در Google Colab و جمع‌بندی اساتید با نگاهی به پژوهش‌های روز است.
+  session_format_en: >
+    Each session includes intelligent summarization with NotebookLM, challenging discussions, live coding in Google Colab, and faculty wrap-up with insights from current research.
+
+  benefits:
+    - "مدرک و گواهی آزمایشگاه برای شرکت‌کنندگان فعال (حداقل ۸۰٪ حضور و مشارکت مؤثر)"
+    - "شبکه‌سازی با اساتید و دانشجویان مستعد در فضایی صمیمی"
+    - "هیچ شهریه‌ای دریافت نمی‌شود؛ یادگیری برای همه آزاد است"
+  benefits_en:
+    - "Lab certificate for active participants (minimum 80% attendance and effective contribution)"
+    - "Networking with faculty and talented students in a friendly environment"
+    - "No fees required; learning is free for everyone"
+
+  strategic_goal: >
+    این دوره صرفاً یک کلاس کتابخوانی نیست؛ اساتید و آزمایشگاه، عملکرد و خلاقیت شما را رصد خواهند کرد و دانشجویان برتر به تیم علمی آزمایشگاه تحقیقاتی دعوت خواهند شد و در صورت علاقه در پروژه‌های علمی آینده مشارکت خواهند کرد.
+  strategic_goal_en: >
+    This course is not just a reading group; faculty and the lab will monitor your performance and creativity, and top students will be invited to join the lab's research team and participate in future scientific projects.
+
+  notes:
+    - "ظرفیت کلاس حضوری محدود است و اولویت ثبت‌نام با عزیزانی است که زودتر فرم را تکمیل کنند."
+    - "لطفاً تنها در صورتی ثبت‌نام کنید که از حضور منظم و فعال خود در تمام جلسات اطمینان کامل دارید."
+  notes_en:
+    - "In-person class capacity is limited. Priority is given to those who complete the registration form first."
+    - "Please only register if you are fully confident in your regular and active attendance at all sessions."
