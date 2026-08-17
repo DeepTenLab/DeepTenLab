@@ -85,15 +85,13 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
-{% capture text %}
+<div dir="rtl">
 
 {{ c.session_format }}
 
+</div>
+
 {{ c.session_format_en }}
-
-{% endcapture %}
-
-{{ text | markdownify }}
 
 {% include section.html %}
 
