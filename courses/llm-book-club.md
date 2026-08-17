@@ -167,6 +167,26 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 
 {% include section.html %}
 
+<div dir="rtl">
+
+<h2>📞 ارتباط با ما</h2>
+
+<ul style="list-style-type: none; padding-right: 0;">
+<li>📱 <strong>پیامک - تماس:</strong> 09302547462</li>
+<li>✈️ <strong>تلگرام:</strong> <a href="https://t.me/MohJamali">@MohJamali</a></li>
+<li>👥 <strong>گروه تلگرام:</strong> <a href="https://t.me/+_lvcxpNdeeMwOWZk">عضویت در گروه</a></li>
+</ul>
+
+</div>
+
+## 📞 Contact
+
+- 📱 **Phone:** 09302547462
+- ✈️ **Telegram:** [@MohJamali](https://t.me/MohJamali)
+- 👥 **Group:** [Join Telegram Group](https://t.me/+_lvcxpNdeeMwOWZk)
+
+{% include section.html %}
+
 <div style="text-align: center; padding: 2rem 0;">
 
 {%
