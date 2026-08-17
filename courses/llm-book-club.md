@@ -86,7 +86,7 @@ These topics will be covered over 5 weeks, combining theory, group discussion, a
 {%
   include feature.html
   image="https://cdn-icons-png.flaticon.com/512/2232/2232667.png"
-  title="ساختار جلسات | Session Format"
+  title="ساختار جلسات"
   text=text
 %}
 
